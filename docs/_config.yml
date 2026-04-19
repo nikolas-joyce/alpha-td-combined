@@ -1,0 +1,4 @@
+﻿title: "Alpha: TD Setup + Countdown Combined"
+theme: minima
+plugins:
+  - jekyll-seo-tag
